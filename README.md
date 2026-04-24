@@ -16,6 +16,6 @@ style4.css: Custom styles for the weather cards and backgrounds.
 script3.js: Logic for API fetching and data rendering.
 🔗 How to Run
 Clone the repository:
-
+https://shiksha-arya-raushan.github.io/prodigy_5/
 Open index.html in your browser.
 Enter a city name and get instant weather
